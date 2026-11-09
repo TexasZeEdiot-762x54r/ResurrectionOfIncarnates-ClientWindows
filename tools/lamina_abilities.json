@@ -1,0 +1,77 @@
+{
+  "1": [
+    "Builds a barrier that offers protection from ranged attacks from the front for a period of time.",
+    "Builds a barrier that offers protection from melee attacks from the front for a period of time.",
+    "Builds a barrier that offers protection from all attacks from the front for a period of time."
+  ],
+  "2": [
+    "Fires a super-high-speed arrow that forces opponents down if it hits.",
+    "Fires two bursts of fire that spread out in front of you.",
+    "Fires a lobbed shot that numbs enemies, then a straight arrow forward."
+  ],
+  "3": [
+    "Expands the effective ranged-attack radius for a period of time.",
+    "Expands the effective melee-attack range for a period of time.",
+    "Reduces the freeze time after performing a move or landing on the ground."
+  ],
+  "4": [
+    "Fires two guided shots that reduces your foe's effective ranged-attack radius for a period of time after hitting.",
+    "Fires two guided shots that slows your foe for a period of time after hitting.",
+    "Fires two guided shots that reduces your foe's reload / cooldown speed for a period of time after hitting."
+  ],
+  "5": [
+    "Grabs foes and binds them for a period of time. It also forces downed foes back up.",
+    "Hits foes with three melee throw attacks. It also reduces the Down value of thrown foes.",
+    "Grabs foes and hits them with an uppercut. It also affects downed foes."
+  ],
+  "6": [
+    "Follows the character and refills health for a period of time.",
+    "Follows the character and heals status effects for a period of time.",
+    "Follows the character and boosts full reload / cooldown speed for a period of time."
+  ],
+  "7": [
+    "Fires a laser over a certain range.",
+    "Fires a laser that explodes and sends adjacent foes flying when it hits the ground or travels a certain range.",
+    "Fires a huge, but slow-moving laser that disappears after traveling a certain range."
+  ],
+  "8": [
+    "Follows the character and lowers their Tag Combo Launcher Down value for a period of time.",
+    "Follows the character for a period of time and adds Guard Break properties to their first attack once.",
+    "Follows the character and turns Tag Combo attacks into Awakened Tag Combo attacks for a period of time."
+  ],
+  "9": [
+    "Follows the character and boosts the amount the Awakening Gauge is filled when taking damage for a period of time.",
+    "Follows the character and boosts the amount the Awakening Gauge is filled when dealing damage for a period of time.",
+    "Follows the character and fills the Awakening Gauge for a period of time. Use when Awakened to extend your Awakened period a little."
+  ],
+  "10": [
+    "Sticks to your side for a period of time and fires a shot alongside your ranged attacks.",
+    "Sticks to your side for a period of time and fires a barrage of shots alongside your ranged attacks.",
+    "Sticks to your side for a period of time and fires a shot that explodes on impact alongside your ranged attacks."
+  ],
+  "11": [
+    "Follows the character and boosts their dash speed for a period of time.",
+    "Follows the character and reduces Action Gauge consumption when dashing for a period of time.",
+    "Follows the character and adds a dodge effect to dashing for a period of time."
+  ],
+  "12": [
+    "Stays in place, then sets off a large explosion after a certain period of time.",
+    "Builds a barrier on the spot that blocks all attacks for a period of time.",
+    "Stays in place for a period of time, allowing you to view the Action Gauge of foes once you lock on to them long enough."
+  ],
+  "13": [
+    "Lobs six bombs in two rows directly ahead of you, then creates pillars of fire with them.",
+    "Lobs four bombs radially in front of you, then blows them up in the air.",
+    "Throws four bombs that roll along the ground, exploding as they do."
+  ],
+  "14": [
+    "Throws a head at foes that greatly boosts Action Gauge consumption on any foe it hits.",
+    "Throws a head that makes any foe it hits take damage sustained by his teammate for a period of time.",
+    "Throws a head that explodes shortly after hitting an enemy."
+  ],
+  "15": [
+    "Generates a field while moving toward your target for a period of time. Enemies that enter this field will have their Awakening Gauge frozen.",
+    "Generates a field while moving toward your target for a period of time. Enemies that enter this field will take damage.",
+    "Generates a field while moving toward your target for a period of time. Enemies that enter this field will have their support lamina forced out of battle."
+  ]
+}

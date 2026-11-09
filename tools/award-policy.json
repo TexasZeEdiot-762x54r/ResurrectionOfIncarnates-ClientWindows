@@ -1,0 +1,560 @@
+{
+  "schema": 1,
+  "enabled": false,
+  "player_levels": [
+    {
+      "level": 0,
+      "total_xp": 0,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction from analysis/xp-threshold-observations-20261031.json."
+    },
+    {
+      "level": 1,
+      "total_xp": 4,
+      "verified": true,
+      "evidence": "Reported target: level 0 to 1."
+    },
+    {
+      "level": 2,
+      "total_xp": 8,
+      "verified": true,
+      "evidence": "Reported target: level 1 to 2."
+    },
+    {
+      "level": 3,
+      "total_xp": 12,
+      "verified": true,
+      "evidence": "Reported target: level 2 to 3."
+    },
+    {
+      "level": 4,
+      "total_xp": 16,
+      "verified": true,
+      "evidence": "Reported target: level 3 to 4."
+    },
+    {
+      "level": 5,
+      "total_xp": 20,
+      "verified": true,
+      "evidence": "Reported target: level 4 to 5."
+    },
+    {
+      "level": 6,
+      "total_xp": 26,
+      "verified": true,
+      "evidence": "Reported target: level 5 to 6."
+    },
+    {
+      "level": 7,
+      "total_xp": 35,
+      "verified": true,
+      "evidence": "Reported target: level 6 to 7."
+    },
+    {
+      "level": 8,
+      "total_xp": 47,
+      "verified": true,
+      "evidence": "Reported target: level 7 to 8."
+    },
+    {
+      "level": 9,
+      "total_xp": 62,
+      "verified": true,
+      "evidence": "Reported target: level 8 to 9."
+    },
+    {
+      "level": 10,
+      "total_xp": 80,
+      "verified": true,
+      "evidence": "Reported target: level 9 to 10."
+    },
+    {
+      "level": 11,
+      "total_xp": 101,
+      "verified": true,
+      "evidence": "Reported target: level 10 to 11."
+    },
+    {
+      "level": 12,
+      "total_xp": 125,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction between reported anchors."
+    },
+    {
+      "level": 13,
+      "total_xp": 152,
+      "verified": true,
+      "evidence": "Reported target: level 12 to 13."
+    },
+    {
+      "level": 14,
+      "total_xp": 182,
+      "verified": true,
+      "evidence": "Reported target: level 13 to 14."
+    },
+    {
+      "level": 15,
+      "total_xp": 215,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction between reported anchors."
+    },
+    {
+      "level": 16,
+      "total_xp": 254,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction between reported anchors."
+    },
+    {
+      "level": 17,
+      "total_xp": 299,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction between reported anchors."
+    },
+    {
+      "level": 18,
+      "total_xp": 350,
+      "verified": true,
+      "evidence": "Reported target: level 17 to 18."
+    },
+    {
+      "level": 19,
+      "total_xp": 407,
+      "verified": true,
+      "evidence": "Reported target: level 18 to 19."
+    },
+    {
+      "level": 20,
+      "total_xp": 470,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction between reported anchors."
+    },
+    {
+      "level": 21,
+      "total_xp": 539,
+      "verified": true,
+      "evidence": "Reported target: level 20 to 21."
+    },
+    {
+      "level": 22,
+      "total_xp": 614,
+      "verified": true,
+      "evidence": "Reported target: level 21 to 22."
+    },
+    {
+      "level": 23,
+      "total_xp": 695,
+      "verified": true,
+      "evidence": "Reported target: level 22 to 23."
+    },
+    {
+      "level": 24,
+      "total_xp": 791,
+      "verified": true,
+      "evidence": "Reported target: level 23 to 24."
+    },
+    {
+      "level": 25,
+      "total_xp": 902,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction between reported anchors."
+    },
+    {
+      "level": 26,
+      "total_xp": 1028,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction between reported anchors."
+    },
+    {
+      "level": 27,
+      "total_xp": 1169,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction between reported anchors."
+    },
+    {
+      "level": 28,
+      "total_xp": 1325,
+      "verified": true,
+      "evidence": "Reported target: level 27 to 28."
+    },
+    {
+      "level": 29,
+      "total_xp": 1496,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 30,
+      "total_xp": 1682,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 31,
+      "total_xp": 1877,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 32,
+      "total_xp": 2072,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 33,
+      "total_xp": 2267,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 34,
+      "total_xp": 2462,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 35,
+      "total_xp": 2657,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 36,
+      "total_xp": 2852,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 37,
+      "total_xp": 3047,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 38,
+      "total_xp": 3242,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 39,
+      "total_xp": 3437,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 40,
+      "total_xp": 3632,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 41,
+      "total_xp": 3827,
+      "verified": true,
+      "evidence": "Reported target: level 40 to 41."
+    },
+    {
+      "level": 42,
+      "total_xp": 4022,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 43,
+      "total_xp": 4217,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 44,
+      "total_xp": 4412,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 45,
+      "total_xp": 4607,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 46,
+      "total_xp": 4802,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 47,
+      "total_xp": 4997,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 48,
+      "total_xp": 5192,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 49,
+      "total_xp": 5387,
+      "verified": true,
+      "evidence": "Owner-selected reconstructed late-player segment."
+    },
+    {
+      "level": 50,
+      "total_xp": 5582,
+      "verified": true,
+      "evidence": "Reported accumulated XP at player level 50; cap threshold."
+    }
+  ],
+  "character_default_levels": [
+    {
+      "level": 0,
+      "total_xp": 0,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction from analysis/xp-threshold-observations-20261031.json."
+    },
+    {
+      "level": 1,
+      "total_xp": 4,
+      "verified": true,
+      "evidence": "Reported target: character level 0 to 1."
+    },
+    {
+      "level": 2,
+      "total_xp": 8,
+      "verified": true,
+      "evidence": "Reported target: character level 1 to 2."
+    },
+    {
+      "level": 3,
+      "total_xp": 12,
+      "verified": true,
+      "evidence": "Reported target: character level 2 to 3."
+    },
+    {
+      "level": 4,
+      "total_xp": 37,
+      "verified": true,
+      "evidence": "Reported target: character level 3 to 4."
+    },
+    {
+      "level": 5,
+      "total_xp": 55,
+      "verified": true,
+      "evidence": "Reported target: character level 4 to 5."
+    },
+    {
+      "level": 6,
+      "total_xp": 73,
+      "verified": true,
+      "evidence": "Reported target: character level 5 to 6."
+    },
+    {
+      "level": 7,
+      "total_xp": 94,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction between reported anchors."
+    },
+    {
+      "level": 8,
+      "total_xp": 115,
+      "verified": true,
+      "evidence": "Reported target: character level 7 to 8."
+    },
+    {
+      "level": 9,
+      "total_xp": 139,
+      "verified": true,
+      "evidence": "Reported target: character level 8 to 9."
+    },
+    {
+      "level": 10,
+      "total_xp": 163,
+      "verified": true,
+      "evidence": "Reported target: character level 9 to 10."
+    },
+    {
+      "level": 11,
+      "total_xp": 199,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction between reported anchors."
+    },
+    {
+      "level": 12,
+      "total_xp": 241,
+      "verified": true,
+      "evidence": "Reported target: character level 11 to 12."
+    },
+    {
+      "level": 13,
+      "total_xp": 289,
+      "verified": true,
+      "evidence": "Reported target: character level 12 to 13."
+    },
+    {
+      "level": 14,
+      "total_xp": 343,
+      "verified": true,
+      "evidence": "Reported target: character level 13 to 14."
+    },
+    {
+      "level": 15,
+      "total_xp": 403,
+      "verified": true,
+      "evidence": "Reported target: character level 14 to 15."
+    },
+    {
+      "level": 16,
+      "total_xp": 463,
+      "verified": true,
+      "evidence": "Reported target: character level 15 to 16."
+    },
+    {
+      "level": 17,
+      "total_xp": 529,
+      "verified": true,
+      "evidence": "Reported target: character level 16 to 17."
+    },
+    {
+      "level": 18,
+      "total_xp": 601,
+      "verified": true,
+      "evidence": "Reported target: character level 17 to 18."
+    },
+    {
+      "level": 19,
+      "total_xp": 679,
+      "verified": true,
+      "evidence": "Owner-selected reconstruction between reported anchors."
+    },
+    {
+      "level": 20,
+      "total_xp": 763,
+      "verified": true,
+      "evidence": "Reported target: character level 19 to 20."
+    },
+    {
+      "level": 21,
+      "total_xp": 963,
+      "verified": true,
+      "evidence": "Reported target: character level 20 to 21."
+    },
+    {
+      "level": 22,
+      "total_xp": 1163,
+      "verified": true,
+      "evidence": "Owner-selected continuation of the last supported +200 segment."
+    },
+    {
+      "level": 23,
+      "total_xp": 1363,
+      "verified": true,
+      "evidence": "Reported target: character level 22 to 23."
+    },
+    {
+      "level": 24,
+      "total_xp": 1563,
+      "verified": true,
+      "evidence": "Owner-selected continuation of the last supported +200 segment."
+    },
+    {
+      "level": 25,
+      "total_xp": 1763,
+      "verified": true,
+      "evidence": "Owner-selected continuation of the last supported +200 segment."
+    },
+    {
+      "level": 26,
+      "total_xp": 1963,
+      "verified": true,
+      "evidence": "Owner-selected continuation of the last supported +200 segment."
+    },
+    {
+      "level": 27,
+      "total_xp": 2163,
+      "verified": true,
+      "evidence": "Owner-selected continuation of the last supported +200 segment."
+    },
+    {
+      "level": 28,
+      "total_xp": 2363,
+      "verified": true,
+      "evidence": "Owner-selected continuation of the last supported +200 segment."
+    },
+    {
+      "level": 29,
+      "total_xp": 2563,
+      "verified": true,
+      "evidence": "Owner-selected continuation of the last supported +200 segment."
+    },
+    {
+      "level": 30,
+      "total_xp": 2763,
+      "verified": true,
+      "evidence": "Owner-selected character level-30 cap threshold."
+    }
+  ],
+  "character_levels": {},
+  "bot_rewards": [],
+  "lp_rewards": {
+    "enabled": true,
+    "provenance": "user_selected_revival",
+    "source": "Owner-selected October 31 revival policy. Native Total and original Team Rank algorithm via guarded Windows bridge; local activation authorized by owner. Native gameplay acceptance pending, not original economy verification.",
+    "components": "full",
+    "score_percent": 20,
+    "battle_bonuses": {
+      "-1": 4000,
+      "1": 6000
+    },
+    "team_bonuses": {
+      "1": {
+        "S": 4000,
+        "A": 2400,
+        "B": 1200,
+        "C": 600
+      },
+      "-1": {
+        "S": 1000,
+        "A": 400,
+        "B": 200,
+        "C": 100
+      }
+    }
+  },
+  "match_xp": {
+    "enabled": true,
+    "provenance": "user_selected_revival",
+    "source": "Owner-selected match XP rule, 2026-11-02: 2 loss and 4 win, including highest-damage wins, for both player and selected character before active EXP boosts. Cumulative reconstructed thresholds remain unchanged.",
+    "loss": 2,
+    "win": 4,
+    "highest_damage_win": 4,
+    "baseline": "preserve_current_levels"
+  },
+  "cube_drops": {
+    "enabled": true,
+    "provenance": "user_selected_revival",
+    "source": "Owner-selected revival rules, 2026-11-01: guaranteed battle cube; independent 50% win cube; independent player/character level-up rolls of 50% cube or 50% LP, with LP equally 100000 or 200000; independent 1% victory boost, equally LP/EXP and equally 1/3/7/14/30 days. Boost ownership does not implement activation.",
+    "battle_cube_count": 1,
+    "win_bonus": {
+      "cube_chance_percent": 50
+    },
+    "level_up_bonus": {
+      "enabled": true,
+      "selection": "weighted_random",
+      "cube_weight": 1,
+      "lp_weight": 1,
+      "lp_amounts": [
+        100000,
+        200000
+      ]
+    },
+    "victory_boost": {
+      "enabled": true,
+      "chance_percent": 1
+    }
+  },
+  "notes": "Explicit owner-selected reconstructed cumulative XP tables are enabled: player cap 50 and character cap 30. Character levels 23-30 continue the last supported +200 segment. Level-up cube-or-LP bonus balance remains disabled. Grid reward levels use the owner-selected revival schedule in grid-reward-policy.json."
+}
