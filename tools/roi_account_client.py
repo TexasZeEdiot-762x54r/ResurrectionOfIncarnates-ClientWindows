@@ -75,6 +75,11 @@ async def exchange(options, method, path, token=None, body=None):
             raise RegistrationError('Registration request too large')
         headers = [method+' '+path+' HTTP/1.1', 'Host: '+ISSUER, 'Connection: close',
                    'Content-Type: application/json', 'Content-Length: '+str(len(raw))]
+        if path == '/registration' or path.startswith('/registration/'):
+            from client_version import label
+            version = label()
+            if version:
+                headers.append('X-ROI-Client-Version: '+version)
         if token is not None:
             if not re.fullmatch(r'[0-9a-f]{64}', token):
                 raise RegistrationError('Invalid account credential')

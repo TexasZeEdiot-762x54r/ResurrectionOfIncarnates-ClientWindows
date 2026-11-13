@@ -8,6 +8,8 @@ from sessions.observe import SCENES  # noqa: E402
 
 
 def setup(d):
+    from sessions import version_footer
+    version_footer.setup(d)
     from sessions import lamina_menu, lamina_combat
     import match_lamina
     match_lamina.setup(d)

@@ -43,3 +43,13 @@ profile as a fallback when offline operation is required.
 **Tests still required:** registration on a clean PC, full post-battle results,
 Lamina unlocks on an enrolled account, and two peers observing identical
 summons/effects in the same battle. Joining a lobby alone proves none of these.
+
+## Client updates
+
+The launcher checks the signed development feed before play in public Internet mode.
+Accept the prompt to install or decline to play the current build. LAN and private
+VPN configurations make no public update request. To check manually run
+`python roi_update.py --check` (Linux: `python3`); use `--apply` to install.
+On Linux install OpenSSH client tools and zenity or kdialog for a desktop prompt.
+On Windows use the Windows OpenSSH Client optional feature. Updates do not
+download Steam's original game or change account credentials.
